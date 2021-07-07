@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ArmTemplates.Templates", "ArmTemplates.Templates.deployproj", "{FDA6586D-B4F8-4D4B-AF22-0A069D2DE78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA6586D-B4F8-4D4B-AF22-0A069D2DE78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA6586D-B4F8-4D4B-AF22-0A069D2DE78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA6586D-B4F8-4D4B-AF22-0A069D2DE78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA6586D-B4F8-4D4B-AF22-0A069D2DE78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37DAC28-7D60-45F6-9888-5F00A34EC936}
+	EndGlobalSection
+EndGlobal
